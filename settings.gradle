@@ -1,0 +1,3 @@
+rootProject.name = 'jai-backend'
+include 'database'
+
