@@ -1,0 +1,77 @@
+JIRANOTE__Sample Sprint 2__TES-16 - As a team, we can finish the sprint by clicking the cog icon next to the sprint name above the "To Do" column then selecting "Complete Sprint" >> Try closing this sprint now.txt|[__status:To Investigate__Category:Implementation__Language:Java__]
++-----------------+
+| 21 JANUARY 2018 |
++-----------------+
+dafdfaagdfadg
++-------------------+
+| 22 JANUARY 2018 |
++-------------------+
+sgffsgfgsfsgfgsgfsfgs
++-----------------+
+| 23 JANUARY 2018 |
++-----------------+
+:$:$:$JIRANOTE__Sample Sprint 2__TES-15 - As a scrum master, I can see the progress of a sprint via the Burndown Chart >> Click "Reports" to view the Burndown Chart.txt|[__status:Awaiting code review__Category:Investigation__Language:SQL__]
++-----------------+
+| 23 JANUARY 2018 |
++-----------------+
+testsgrf
+
++-----------------+
+| 25 JANUARY 2018 |
++-----------------+
+gfsfgssfgh
+
++-----------------+
+| 28 JANUARY 2018 |
++-----------------+
+fdaadgadggadadgs:$:$:$JIRANOTE__Sample Sprint 2__TES-10 - As a developer, I can update story and task status with drag and drop (click the triangle at far left of this story to show sub-tasks).txt|[__status:Waiting for answer__Category:Implementation__Language:Java__]
++-----------------+
+| 26 JANUARY 2018 |
++-----------------+
+dfadfafdfad
++-----------------+
+| 28 JANUARY 2018 |
++-----------------+
+fadafdfad:$:$:$JIRANOTE__Sample Sprint 2__TES-13 - As a developer, I can update details on an item using the Detail View >> Click the "TES-13" link at the top of this card to open the detail view.txt|[__status:Ready for check-in__Category:Investigation__Language:SQL__]
++-----------------+
+| 28 JANUARY 2018 |
++-----------------+
+adfsdfdgfaagddgagad:$:$:$JIRANOTE__Sample Sprint 2__TES-17 - Instructions for deleting this sample board and project are in the description for this issue >> Click the "TES-17" link and read the description tab of the detail view for more.txt|[__Category:Bug Fix__Language:VB__]
++-----------------+
+| 23 JANUARY 2018 |
++-----------------+
+
++-----------------+
+| 24 JANUARY 2018 |
++-----------------+
+
++-----------------+
+| 25 JANUARY 2018 |
++-----------------+
+
++-----------------+
+| 26 JANUARY 2018 |
++-----------------+
+
++-----------------+
+| 27 JANUARY 2018 |
++-----------------+:$:$:$JIRANOTE__Undefined Sprint__TES-3 - As a product owner, I'd like to rank stories in the backlog so I can communicate the proposed implementation order >> Try dragging this story up above the previous story.txt|[__status:Needs BA/discussion__Category:Bug Fix__Language:SQL__]
++-----------------+
+| 28 JANUARY 2018 |
++-----------------+
+:$:$:$JIRANOTE__Sample Sprint 2__TES-14 - As a user, I can find important items on the board by using the customisable "Quick Filters" above >> Try clicking the "Only My Issues" Quick Filter above.txt|[__status:To Test__Category:Bug Fix__Language:VB__]
++-----------------+
+| 11 JANUARY 2018 |
++-----------------+
+did something
+
++-----------------+
+| 23 JANUARY 2018 |
++-----------------+
+testing test test test asdasd dsasdasdsdsdfss
+
++-----------------+
+| 25 JANUARY 2018 |
++-----------------+
+testing some more
+:$:$:$

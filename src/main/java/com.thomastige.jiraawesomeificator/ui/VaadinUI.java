@@ -32,6 +32,9 @@ public class VaadinUI extends UI {
         reportButtons.addComponent(new Button("Metrics Report",
                 e -> textArea.setValue((String) reportController.getMetricsReport().getBody())
         ));
+//        reportButtons.addComponent(new Button("Download All Notes",
+//                e -> textArea.setValue((String) reportController.getNoteArchive().getBody())
+//        ));
         root.addComponents(reportButtons, textArea);
     }
 }

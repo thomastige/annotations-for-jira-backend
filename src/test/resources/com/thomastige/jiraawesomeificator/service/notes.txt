@@ -1,0 +1,77 @@
+[__status:To Investigate__Category:Implementation__Language:Java__]
++-----------------+
+| 21 JANUARY 2018 |
++-----------------+
+dafdfaagdfadg
++-------------------+
+| 22 JANUARY 2018 |
++-------------------+
+sgffsgfgsfsgfgsgfsfgs
++-----------------+
+| 23 JANUARY 2018 |
++-----------------+
+:$:$:$[__status:Awaiting code review__Category:Investigation__Language:SQL__]
++-----------------+
+| 23 JANUARY 2018 |
++-----------------+
+testsgrf
+
++-----------------+
+| 25 JANUARY 2018 |
++-----------------+
+gfsfgssfgh
+
++-----------------+
+| 28 JANUARY 2018 |
++-----------------+
+fdaadgadggadadgs:$:$:$[__status:Waiting for answer__Category:Implementation__Language:Java__]
++-----------------+
+| 26 JANUARY 2018 |
++-----------------+
+dfadfafdfad
++-----------------+
+| 28 JANUARY 2018 |
++-----------------+
+fadafdfad:$:$:$[__status:Ready for check-in__Category:Investigation__Language:SQL__]
++-----------------+
+| 28 JANUARY 2018 |
++-----------------+
+adfsdfdgfaagddgagad:$:$:$[__Category:Bug Fix__Language:VB__]
++-----------------+
+| 23 JANUARY 2018 |
++-----------------+
+
++-----------------+
+| 24 JANUARY 2018 |
++-----------------+
+
++-----------------+
+| 25 JANUARY 2018 |
++-----------------+
+
++-----------------+
+| 26 JANUARY 2018 |
++-----------------+
+
++-----------------+
+| 27 JANUARY 2018 |
++-----------------+:$:$:$[__status:Needs BA/discussion__Category:Bug Fix__Language:SQL__]
++-----------------+
+| 28 JANUARY 2018 |
++-----------------+
+:$:$:$[__status:To Test__Category:Bug Fix__Language:VB__]
++-----------------+
+| 11 JANUARY 2018 |
++-----------------+
+did something
+
++-----------------+
+| 23 JANUARY 2018 |
++-----------------+
+testing test test test asdasd dsasdasdsdsdfss
+
++-----------------+
+| 25 JANUARY 2018 |
++-----------------+
+testing some more
+:$:$:$
